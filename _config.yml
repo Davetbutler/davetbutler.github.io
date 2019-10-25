@@ -7,19 +7,17 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Mr"
+title                    : "David Butler"
 title_separator          : "-"
 name                     : &name "David Butler"
-description              : &description "PhD student at the Alan Turing Institute"
-url                      : https://davetbutler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Student at the Alan Turing Institute"
+url                      : https://davetbutler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Davetbutler/davetbutler.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : david-butler_1000x793.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : fx_briol &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,15 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "François-Xavier Briol"
+  avatar           : "fxbriol_website_photo.jpg"
+  bio              : "Lecturer in Statistical Science"
+  location         : "Department of Statistical Science"
+  employer         : "University College London"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en"
+  email            : "f.briol@ucl.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@fx_briol"
   vine             :
   weibo            :
   xing             :
@@ -129,23 +124,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -181,9 +175,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -191,17 +182,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,10 +189,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _supervision
   - scope:
       path: ""
-      type: teaching
+      type: supervision
     values:
       layout: single
       author_profile: true
@@ -227,21 +207,20 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _presentations
   - scope:
       path: ""
-      type: portfolio
+      type: presentations
     values:
-      layout: single
+      layout: presentations
       author_profile: true
       share: true
-      comment: true
-  # _talks
+# _teaching
   - scope:
       path: ""
-      type: talks
+      type: teaching
     values:
-      layout: talk
+      layout: teaching
       author_profile: true
       share: true
 
@@ -255,11 +234,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

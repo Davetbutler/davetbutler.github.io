@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/sigma_commit_paper.md
 excerpt: ''
 date: Feb 2019
+venue: FCS 2019'
 paperurl: 'https://eprint.iacr.org/2019/1185.pdf'
 citation: 'David Butler, Andreas Lochbihler, David Aspinall, Adria Gascon, . Formalising Σ-Protocols and Commitment Schemes using CryptHOL. Cryptography ePrint 2019/1185. 
 '

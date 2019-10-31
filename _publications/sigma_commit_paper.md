@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigma_commit_paper.md
 excerpt: ''
 date: Feb 2019
-venue: 'ITP 2017'
+venue: 'POST 2019'
 paperurl: 'https://www.turing.ac.uk/sites/default/files/2019-04/butler2019_chapter_ontheformalisationofvarsigma-p.pdf'
 citation: 'David Butler, David Aspinall, Adria Gascon, . On the Formalisation of Sigma-Protocols and Commitment Schemes. POST 2019. 
 '

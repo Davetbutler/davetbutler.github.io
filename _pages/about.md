@@ -17,4 +17,4 @@ For more details on my research, see my [publications](https://davetbutler.githu
 
 ## News
 
-* We have a new [paper] (https://eprint.iacr.org/2019/1185.pdf) out, extending our work from POST 2019 on sigma protocols and commitment schemes. 
+* We have a new [paper](https://eprint.iacr.org/2019/1185.pdf) out, extending our work from POST 2019 on sigma protocols and commitment schemes. 

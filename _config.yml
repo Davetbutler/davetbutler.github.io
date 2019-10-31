@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : fx_briol &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "François-Xavier Briol"
-  avatar           : "fxbriol_website_photo.jpg"
-  bio              : "Lecturer in Statistical Science"
-  location         : "Department of Statistical Science"
+  name             : "David Butler"
+  avatar           : "david-butler_1000x793.jpg"
+  bio              : "PhD student at the Alan Turing Institute"
+  location         : "London"
   employer         : "University College London"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en"
-  email            : "f.briol@ucl.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F59PpFTjvoefvHWLibWpxSSeKMsBsZfF9mcRz7F7ny47_3JuNB6PJKxSh9V-YQ2tdEfEU7KUgQc6kaF_rBHkfirfZTQMBUva9mriaTmLmuUJwFCuZc&user=b-9lOqgAAAAJ"
+  email            : "dbutler@turing.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/david-butler-224932168/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@fx_briol"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

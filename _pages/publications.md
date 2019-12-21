@@ -8,10 +8,15 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
+* ***D. Butler***, A. Lochbihler, D. Apsinall, A Gascon (2019). *Formalising Σ-Protocols and Commitment Schemes using CryptHOL [(***Preprint***)](https://eprint.iacr.org/2019/1185.pdf)
 
 
 ## Published Papers
+
+* ***D. Butler***, D. Aspinall, A. Gascón. On the Formalisation of Σ-Protocols and Commitment Schemes. POST 2019: 175-196. [(***Conference***)] https://link.springer.com/chapter/10.1007/978-3-030-17138-4_8
+
+
+* ***D. Butler***, D. Aspinall, A. Gascón. ITP 2017: 114-130 *How to Simulate It in Isabelle: Towards Formal Proof for Secure Multi-Party Computation.* ITP 2017: 114-130 [(***Conference***)] https://arxiv.org/abs/1805.12482
 
 * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. To appear in Neural Information Processing Systems. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 

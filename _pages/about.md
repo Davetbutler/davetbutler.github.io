@@ -21,4 +21,4 @@ In 2028 I spent time working at the NASA Ames Research Center in California. You
 
 * We had our [paper](https://eprint.iacr.org/2019/1449.pdf) accepted at CPP 2020. In this work we extend our formalisation of MPC to the malicious setting.
 
-* We have a new [paper](https://eprint.iacr.org/2019/1185.pdf) out, extending our work from POST 2019 on sigma protocols and commitment schemes. 
+* We have a new [paper](https://eprint.iacr.org/2019/1185.pdf) out, extending our work from POST 2019 on Sigma Protocols and Commitment Schemes. 

@@ -15,7 +15,7 @@ Before the Alan Turing Institute I completed my masters (First Class Honours, MM
 
 For more details on my research, see my [publications](https://davetbutler.github.io/publications/) page or my [google scholar profile](https://scholar.google.com/citations?user=b-9lOqgAAAAJ&hl=en&oi=sra), or feel free to contact me directly.
 
-In 2028 I spent time working at the NASA Ames Research Center in California. You can read about what I got up to [here](https://www.turing.ac.uk/blog/turing-phd-student-david-butler-interns-nasa-analysing-safety-unmanned-aircraft).
+In 2018 I spent time working at the NASA Ames Research Center in California. You can read about what I got up to [here](https://www.turing.ac.uk/blog/turing-phd-student-david-butler-interns-nasa-analysing-safety-unmanned-aircraft).
 
 ## News
 

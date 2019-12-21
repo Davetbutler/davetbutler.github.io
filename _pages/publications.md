@@ -8,7 +8,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* ***D. Butler***, A. Lochbihler, D. Apsinall, A Gascon (2019). *Formalising Σ-Protocols and Commitment Schemes using CryptHOL [(***Preprint***)](https://eprint.iacr.org/2019/1185.pdf)
+* ***D. Butler***, A. Lochbihler, D. Apsinall, A Gascon (2019). Formalising Σ-Protocols and Commitment Schemes using CryptHOL [(***Preprint***)](https://eprint.iacr.org/2019/1185.pdf)
 
 
 ## Published Papers

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-I am a final year PhD student at the Alan Turing Institute, affiliated with the University of Edinburgh. I am supervised by [David Aspinall](http://homepages.inf.ed.ac.uk/da/) and [Adria Gascon](https://www.lsi.upc.edu/~agascon/). My research lies at the intersection of cryptography and formal methonds. In particular I am interested in computer aided security proofs. I work on providing machine checked proofs for proofs of security of low level primitives and Multi Party Computation (MPC) protocols.
+I am a final year PhD student at the Alan Turing Institute, affiliated with the University of Edinburgh. I am supervised by [David Aspinall](http://homepages.inf.ed.ac.uk/da/) and [Adria Gascon](https://www.lsi.upc.edu/~agascon/). My research lies at the intersection of cryptography and formal methods. In particular I am interested in computer aided security proofs. I work on providing machine checked proofs for proofs of security of low level primitives and Multi Party Computation (MPC) protocols.
 
 Before the Alan Turing Institute I completed my masters (First Class Honours, MMath) at Durham University. 
 

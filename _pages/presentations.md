@@ -6,17 +6,21 @@ author_profile: true
 
 ## Upcoming
 
-* 21st January 2020 - Talk - ***Certified Programs and Proofs (CPP) 2020*** (New Orleans, US).
+* 5th April - Talk - ***ZKproofs workshop*** (London, UK)
 
 ## Past
+
+### 2020
+
+* 21st January 2020 - Talk - ***Certified Programs and Proofs (CPP) 2020*** (New Orleans, US). [See my talk here](https://www.youtube.com/watch?v=Byx1BouPpyU&t=4s)
 
 ### 2019 
 
 * 15th October - Talk - ***Bradfield College*** (Reading, UK).
-* 24th-25th September 2019 - Poster - ***Isaac Newton Institute*** (Cambridge, UK).
+* 24th-25th September - Poster - ***Isaac Newton Institute*** (Cambridge, UK).
 * August 27th - Talk - ***University of Edinburgh***, Securty Group (Edinburgh, UK).
 * June 24th - Talk - ***Foundations of Computer Security (FCS) 2019*** (New Jersey, US).
-* April 11th 2019 - Talk - ***Principles of Security and Trust (POST) 2019*** (Prague, CZ).
+* April 11th - Talk - ***Principles of Security and Trust (POST) 2019*** (Prague, CZ).
 
 
 ### 2017

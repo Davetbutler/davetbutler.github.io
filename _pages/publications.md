@@ -15,7 +15,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * ***D. Butler***, C. Hicks, J. Bell, C. Maple, J. Crowcroft. Differentially Private Health Tokens for Estimating COVID-19 Risk. To appear in NDSS CoronaDef 2021. [(***Conference***)](https://arxiv.org/pdf/2006.14329.pdf)
 
-* ***D. Butler***, A. Lochbihler, D. Apsinall, A Gascon (2019). Formalising Σ-Protocols and Commitment Schemes using CryptHOL [(***Journal***)](https://eprint.iacr.org/2019/1185.pdf)
+* ***D. Butler***, A. Lochbihler, D. Apsinall, A Gascon (2019). Formalising Σ-Protocols and Commitment Schemes using CryptHOL. Journal of Automated Reasoning 2020.  [(***Journal***)](https://eprint.iacr.org/2019/1185.pdf)
 
 * ***D. Butler***, D. Aspinall, A. Gascón. Formalising Oblivious Transfer in the Semi Honest and Malicious Model in CryptHOL. CPP 2020. [(***Conference***)](https://eprint.iacr.org/2019/1449.pdf)
 

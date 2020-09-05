@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "David Butler"
 title_separator          : "-"
 name                     : &name "David Butler"
-description              : &description "PhD Student at the Alan Turing Institute"
+description              : &description "Postdoc at the Alan Turing Institute"
 url                      : https://davetbutler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Davetbutler/davetbutler.github.io"

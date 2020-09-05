@@ -6,13 +6,17 @@ author_profile: true
 
 ## Upcoming
 
-* 5th April - Talk - ***ZKproofs workshop*** (London, UK)
+* 16th September - Talk - ***Invited talk*** to OFCOM at the Alan Turing Institute (London, UK)
 
 ## Past
 
 ### 2020
 
-* 21st January 2020 - Talk - ***Certified Programs and Proofs (CPP) 2020*** (New Orleans, US). [See my talk here](https://www.youtube.com/watch?v=Byx1BouPpyU&t=4s)
+* 31st July - Talk - ***Invited talk*** to Ronald Cramer's Cryptology Group, Leiden University.
+
+* 5th April - Talk - ***ZKproofs workshop*** (London, UK)
+
+* 21st January - Talk - ***Certified Programs and Proofs (CPP) 2020*** (New Orleans, US). [See my talk here](https://www.youtube.com/watch?v=Byx1BouPpyU&t=4s)
 
 ### 2019 
 

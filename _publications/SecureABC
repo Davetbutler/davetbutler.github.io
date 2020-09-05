@@ -1,0 +1,15 @@
+---
+title: "SecureABC: Secure AntiBody Certificates for COVID-19"
+collection: publications
+permalink: /publication/SecureABC
+excerpt: ''
+date: May 2020
+venue: preprint'
+paperurl: 'http://homepages.cs.ncl.ac.uk/charles.morisset/fcs2019/FCS_papers/FCS19_session_2_paper_2.pdf'
+citation: 'David Butler, Chris Hicks, Carsten Maple, Jon Crowcroft. SecureABC: Secure AntiBody Certificates for COVID-19. Under review at IEEE Transactions on Technology and Society. 
+'
+---
+We present SecureABC, a decentralised, privacy-preserving system for issuing and verifying antibody certificates.
+
+[Download paper here](https://arxiv.org/pdf/2005.11833.pdf)
+

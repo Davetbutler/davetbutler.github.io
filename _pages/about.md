@@ -22,7 +22,7 @@ In 2018 I spent time working at the NASA Ames Research Center in California. You
 
 ## News from 2020
 
-* Our [paper](https://arxiv.org/pdf/2006.14329.pdf) on differentially private health tokens for COVI-19 has been accepted to the NDSS CoronaDef workshop. 
+* Our [paper](https://arxiv.org/pdf/2006.14329.pdf) on differentially private health tokens for COVID-19 has been accepted to the NDSS CoronaDef workshop. 
 
 * Our journal [paper](https://eprint.iacr.org/2019/1185.pdf) has been accepted to the Journal of Automated Reasoning.
 
